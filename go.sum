@@ -1,0 +1,4 @@
+github.com/baskaev/db v0.0.10 h1:csLJp4/COgrJw4IrI9hUmS8XyfRudxB9R0VpMxu9zJw=
+github.com/baskaev/db v0.0.10/go.mod h1:tpebtcCEETffH+am+pXtXe1SNJUdyUw9B86W98YIO2s=
+github.com/lib/pq v1.10.9 h1:YXG7RB+JIjhP29X+OtkiDnYaXQwpS4JEWq7dtCCRUEw=
+github.com/lib/pq v1.10.9/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=

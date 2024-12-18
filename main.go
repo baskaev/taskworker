@@ -108,8 +108,8 @@ func main() {
 					has, codeElement, _ := item.Has(".ipc-title-link-wrapper")
 					if has {
 						codeAttr := codeElement.MustAttribute("href")
-						if codeAttr != nil && len(*codeAttr) > 15 {
-							code = (*codeAttr)[7:15] // Извлекаем код фильма из ссылки (например, tt1262426)
+						if codeAttr != nil && len(*codeAttr) > 16 {
+							code = (*codeAttr)[7:16] // Извлекаем код фильма из ссылки (например, tt1262426)
 						}
 					}
 
